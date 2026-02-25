@@ -1,4 +1,4 @@
-# <img src="assets/rocket-emoji.png" width="24"/> Karnataka
+# 🌾Karnataka
 
 <p>
  <img src="Images/photo_5830026687230446923_y.jpg">
@@ -20,8 +20,6 @@ The dataset includes agricultural statistics from the Indian state of Karnataka,
 - Handle missing values and outliers
 - Encode categorical variables
 - Apply feature scaling and transformations
-- Train and compare multiple **regression models**
-- Evaluate models using standard regression metrics
 
 ---
 
@@ -63,61 +61,11 @@ EDA includes:
 - Statistical summary of numerical features
 - Distribution analysis (histograms, KDE plots)
 - Correlation analysis
-- Impact of categorical variables on insurance charges
-- Outlier detection and skewness analysis
+- Outlier detection
 
 Visualizations were created using **Matplotlib** and **Seaborn**.
 
 ---
-
-## 🛠️ Data Preprocessing
-
-The preprocessing pipeline includes:
-
-- Handling missing values
-- Encoding categorical variables:
-  - One-Hot Encoding
-  - Label Encoding (when applicable)
-- Feature scaling:
-  - StandardScaler
-  - MinMaxScaler
-- Log transformation for skewed target variable (if required)
-
----
-
-## 🤖 Machine Learning Models
-
-The following regression models were implemented and compared:
-
-- Linear Regression
-- Ridge Regression
-- Lasso Regression
-- Random Forest Regressor
-- Gradient Boosting Regressor
-
-Each model was evaluated to identify the best-performing approach.
-
----
-
-## 📈 Model Evaluation
-
-Models were evaluated using:
-
-- **R² Score**
-- **RMSE (Root Mean Squared Error)**
-
-Model comparison highlights the effectiveness of ensemble methods over linear models.
-
----
-
-## 🧪 Results & Insights
-
-- Discount eligibility (smoking-related) has a **significant impact** on insurance charges
-- Age and BMI show a positive correlation with medical costs
-- Tree-based ensemble models outperform linear regression models
-
----
-
 ## 👤 Author
 
 **Hannah Ahmadzadeh**  
