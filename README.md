@@ -1,7 +1,7 @@
-# 🏥 Karnataka
+# <img src="assets/rocket-emoji.png" width="24"/> Karnataka
 
 <p>
- <img src="https://img.rolandberger.com/content_assets/content_images/captions/Roland_Berger_WEB_24_2694_Regenerative_agriculture_IT_image_caption_w768.jpg?v=1687234">
+ <img src="Images/photo_5830026687230446923_y.jpg">
 </p>
 
 ---
@@ -118,44 +118,12 @@ Model comparison highlights the effectiveness of ensemble methods over linear mo
 
 ---
 
-## 📚 References
-
-- **Kaggle Dataset**  
-  Health Insurance Dataset – IMT Team  
-  https://www.kaggle.com/datasets/imtkaggleteam/health-insurance-dataset
-
-- **IMT ChallengeHub Guidelines**  
-  https://github.com/MrezaMomeni/IMT
-
----
-
-📌 **Challenge Link:**  
-https://github.com/MrezaMomeni/IMT/tree/main/ChallengeHub/2-%20Medical_Insurance
-
-
----
-
-## 🔱 Fork Information
-
-This project has been **forked and customized** from the following repository:
-
-https://github.com/MrezaMomeni/IMT
-
----
-
 ## 👤 Author
 
-**Hossein Heydari**  
-Computer Engineering Student | Junior Data Scientist and Machine Learning Engineer  
+**Hannah Ahmadzadeh**  
+Msc student in Artificial Intelligence | Junior Machine Learning Engineer and AI Researcher
 
-GitHub: https://github.com/HosseinHeydari2004 <br>
-Kaggle: 
+GitHub: https://github.com/Hsstring <br>
+Google Scholar: https://scholar.google.com/citations?user=8pbPFhUAAAAJ&hl=en <br>
 
 ---
-
-## ❤️ Support
-
-If you find this project helpful, please ⭐ the repository and share your feedback.
-
-Happy Learning 🌱✨
-
