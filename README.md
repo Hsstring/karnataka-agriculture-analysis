@@ -72,8 +72,8 @@ Visualizations were created using **Matplotlib** and **Seaborn**.
 </p>
 
 <p align="center">
-  <img src="images/Irrigation per Crops.png" width="400"/>
-  <img src="images/Cultivative and Yield per year.png" width="400"/>
+  <img src="Images/Irrigation per Crops.png" width="400"/>
+  <img src="Images/Cultivative and Yield per year.png" width="400"/>
 </p>
 
 ---
