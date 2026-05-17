@@ -67,13 +67,10 @@ EDA includes:
 - Outlier detection
 
 Visualizations were created using **Matplotlib** and **Seaborn**.
-<p>
- <img src="Images/Pie Chart.png">
-</p>
 
 <p align="center">
-  <img src="Images/Irrigation per Crops.png" width="400"/>
-  <img src="Images/Cultivative and Yield per year.png" width="400"/>
+  <img src="Images/Irrigation per Crops.png" width="600" length="400"/>
+  <img src="Images/Cultivative and Yield per year.png" width="600" length="400"/>
 </p>
 
 ---
