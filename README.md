@@ -34,6 +34,9 @@ The dataset includes agricultural statistics from the Indian state of Karnataka,
   - `charges` – Medical insurance cost
   - ` premium` – Insurance premium charged
 
+- **Numerical Features:** Year, Area, Rainfall, Temperature, Teilds, Humidity, price
+- **Categorical Features:** Location, Soil type, Irrigation, Crops, Season
+
 ### Features Description
 
 | Feature | Description |
